@@ -1,27 +1,27 @@
-# Todo
+# Minhas tarefas diárias 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+📜 - Todo-List básico feito com @angular/cli:11.2.6, typescript, html e css responsivo.
 
-## Development server
+## 🛠 Instalação
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+-- Angular (npm i @angular/cli)
 
-## Code scaffolding
+## 📈 Exemplo de uso
+Como poderia ser usado no dia a dia para marcar tarefas que você precisa executar
+![](todos-img)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Brincando em um sabado de manha :)
 
-## Build
+## 📋 Meta
+Veja tambem meu portifólio simples:
+Lucas Faria Moura – [Portfólio](https://lucasfariam.github.io/) – lucasfmoura19@gmail.com
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Brincando em um sabado de manha :)
 
-## Running unit tests
+## 🚀 Contribuição
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Faça o _fork_ do projeto (<https://github.com/lucasfariam/todo-list-Angular.git>)
+2. Crie uma _branch_ para sua modificação (`git checkout -b meu-novo-recurso`)
+3. Faça o _commit_ (`git commit -am 'Adicionando um novo recurso...'`)
+4. _Push_ (`git push origin meu-novo-recurso`)
+5. Crie um novo _Pull Request_
