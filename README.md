@@ -8,7 +8,8 @@
 
 ## 📈 Exemplo de uso
 Como poderia ser usado no dia a dia para marcar tarefas que você precisa executar
-![Exempro de uso](C:\Users\Farias\Desktop\todo-list-Angular\src\assets\todos-img)
+
+![Exempro de uso](todos-img.png)
 
 Brincando em um sabado de manha :)
 
